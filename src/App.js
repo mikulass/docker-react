@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
-            HELLO FORM IWAY CLOUD PLATFORM !!! 
+            HELLO FROM IWAY CLOUD PLATFORM !!! 
           </p>
           <a
             className="App-link"
